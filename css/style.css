@@ -1,0 +1,10 @@
+.bg-orange{
+    background-color: rgb(97, 68, 15);
+}
+.img{
+ width: 300px;
+ height: 300px;
+
+ border-radius: 5px;
+ justify-content: center;
+}
